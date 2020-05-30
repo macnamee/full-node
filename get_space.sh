@@ -1,6 +1,12 @@
 #!/bin/bash
 echo "Server Drive Total Used Avilable Percentage DriveName NrOfFiles"
 
+
+
+
+
+
+
 server=chia00
 drives=(4TB_01 4TB_02 4TB_03 4TB_04 4TB_05 4TB_06 4TB_07 4TB_08)
 for i in "${drives[@]}"
